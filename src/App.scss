@@ -1,0 +1,103 @@
+$green: #53BF9D;
+$red: #F94C66;
+$dark-red: #BD4291;
+$yellow: #FFC54D;
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;700&family=Share+Tech+Mono&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Roboto, sans-serif;
+}
+
+#container{
+  width: 100%;
+  background-color: $green;
+  text-align: center;
+  padding-top: 100px;
+}
+
+#inner-container{
+  min-height: 493px;
+}
+
+h1{
+  color: $yellow;
+  font-size: 3rem;
+  text-decoration: underline;
+  text-decoration-color: $dark-red;
+}
+
+.item{
+  width: 600px;
+  height: 500px;
+  margin: 20px auto;
+  background: white;
+}
+
+img{
+  width: 600px;
+  height: 400px;
+}
+
+.info-top{
+  display: flex;
+  justify-content: space-between;
+}
+
+.title{
+  font-weight: 400;
+  font-size: 20px;
+  color: $yellow;
+}
+
+.price{
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.info{
+  background-color: $dark-red;
+  font-weight: 100;
+  height: 200px;
+  position: relative;
+  bottom: 100px;
+  word-wrap: break-word;
+  text-align: start;
+  padding: 15px;
+  color: white;
+  line-height: 25px;
+}
+
+button{
+  display: block;
+  position: relative;
+  bottom: -10px;
+  margin: auto;
+  background-color: $dark-red;
+  color: $yellow;
+  border: none;
+  border: 2px solid $yellow;
+  padding: 5px;
+  font-size: 20px;
+}
+
+button:hover{
+  background-color: $red;
+}
+
+footer{
+  background-color: $red;
+  border-top: 5px solid $yellow;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+
+  div{
+    width: 300px;
+  }
+}
