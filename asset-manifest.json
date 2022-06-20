@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/tours/static/css/main.8f5fcef6.css",
+    "main.js": "/tours/static/js/main.6c66951a.js",
+    "static/js/787.a878afe9.chunk.js": "/tours/static/js/787.a878afe9.chunk.js",
+    "static/media/place6.png": "/tours/static/media/place6.3b70c659c3b4bff400b4.png",
+    "static/media/place3.jpeg": "/tours/static/media/place3.16f56b18a8678fca0eef.jpeg",
+    "static/media/place1.jpg": "/tours/static/media/place1.07e7893cf5d0ba964805.jpg",
+    "static/media/place2.jpeg": "/tours/static/media/place2.fff4fe81c005afe67da5.jpeg",
+    "static/media/place5.jpeg": "/tours/static/media/place5.04567f34f753df2ef298.jpeg",
+    "static/media/place4.jpeg": "/tours/static/media/place4.d21a7b99e928c84c00e9.jpeg",
+    "index.html": "/tours/index.html",
+    "main.8f5fcef6.css.map": "/tours/static/css/main.8f5fcef6.css.map",
+    "main.6c66951a.js.map": "/tours/static/js/main.6c66951a.js.map",
+    "787.a878afe9.chunk.js.map": "/tours/static/js/787.a878afe9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f5fcef6.css",
+    "static/js/main.6c66951a.js"
+  ]
+}
